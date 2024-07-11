@@ -1,5 +1,3 @@
-#Quick Portfolio
+<h1>Quick Portfolio</h1>
 
-
-
-Support us at github.com/krupal4
+Build your favourite portfolio in seconds
